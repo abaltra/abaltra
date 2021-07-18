@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm [Alejandro](https://www.abaltra.me), a software developer from 🇨🇱 currently living in 🇺🇸. I've worked at several places! Right now I'm a Lead Developer at [Billtrust](https://www.billtrust.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abaltra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abaltra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **abaltra/abaltra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
